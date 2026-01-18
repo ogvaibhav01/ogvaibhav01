@@ -28,7 +28,8 @@ html,css,cpp,react,git,java,nodejs,java,spring
 📊 **Public Repositories:** 18  
 👥 **Followers:** 2  
 ➡️ **Following:** 1  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogvaibhav01&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogvaibhav01&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogvaibhav01&layout=compact&theme=radical)
 
 ## Recent Activity
 
