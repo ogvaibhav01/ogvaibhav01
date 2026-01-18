@@ -7,6 +7,7 @@ I'm **Vaibhav Bhardwaj**, a passionate learner in the world of technology. I lov
 I am a technology enthusiast currently diving deeper into software development. My journey is fueled by curiosity and a desire to learn. I enjoy working on various projects and constantly expanding my skill set.
 
 ## 🛠 Skills & Technologies
+
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![Java](https://img.shields.io/badge/Java-red?logo=java) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring)
 
 ## Top Projects
@@ -26,7 +27,8 @@ I am a technology enthusiast currently diving deeper into software development. 
 
 📊 **Public Repositories:** 18  
 👥 **Followers:** 2  
-➡️ **Following:** 1  
+➡️ **Following:** 1
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogvaibhav01&theme=radical)
 
 
