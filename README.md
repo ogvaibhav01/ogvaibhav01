@@ -1,34 +1,34 @@
-# Welcome to My GitHub Profile
+# Professional Profile
 
-## Introduction
-Hello! I am Vaibhav, a passionate software developer with a keen interest in building innovative applications and solving complex problems. I thrive in collaborative environments and enjoy leveraging technology to create impactful solutions.
+## About Me
 
-## Skills
-- **Programming Languages**: Python, JavaScript, Java
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database Management**: MySQL, MongoDB
-- **Tools & Technologies**: Git, Docker, AWS, RESTful APIs
-- **Others**: Agile methodologies, Software Testing
+Hello! I am Vaibhav Bhardwaj, passionate about technology and committed to continuous learning. 
 
-## Projects
-- **Project 1**: [Project Name or URL]
-  - Description of project and technologies used.
-  
-- **Project 2**: [Project Name or URL]
-  - Description of project and technologies used.
+## Tech Stack
 
-- **Project 3**: [Project Name or URL]
-  - Description of project and technologies used.
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Django
+- **Databases:** MongoDB, PostgreSQL
+- **Tools & Platforms:** GitHub, Docker, AWS
 
-## Learning Goals
-1. Deepen my understanding of cloud computing technologies.
-2. Explore machine learning and AI frameworks.
-3. Develop proficiency in mobile app development.
+## Featured Projects
 
-## Contact Information
-Feel free to reach out to me via:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Twitter**: [Your Twitter Profile URL]
+1. **Project 1:** Description of project 1.
+2. **Project 2:** Description of project 2.
+3. **Project 3:** Description of project 3.
 
-Thank you for visiting my profile! 😊
+## Goals
+
+I aim to further my knowledge in full-stack development and strive to contribute to open-source projects.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogvaibhav01&show_icons=true&theme=radical)
+
+## Get in Touch
+
+Feel free to reach out to me via email: [vaibhavbhardwaj858l@gmail.com](mailto:vaibhavbhardwaj858l@gmail.com)
+
+## Let's Connect
+
+Follow me on my social media platforms to stay updated with my work!
