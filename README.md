@@ -13,9 +13,7 @@ Hello! I am Vaibhav Bhardwaj, passionate about technology and committed to conti
 
 ## Featured Projects
 
-1. **Project 1:** Description of project 1.
-2. **Project 2:** Description of project 2.
-3. **Project 3:** Description of project 3.
+1. Currently building things
 
 ## Goals
 
