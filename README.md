@@ -25,7 +25,7 @@ I aim to further my knowledge in full-stack development and strive to contribute
 
 ## Get in Touch
 
-Feel free to reach out to me via email: [vaibhavbhardwaj858l@gmail.com](mailto:vaibhavbhardwaj858l@gmail.com)
+Feel free to reach out to me via email: [vaibhavbhardwaj858@gmail.com](mailto:vaibhavbhardwaj858l@gmail.com)
 
 ## Let's Connect
 
