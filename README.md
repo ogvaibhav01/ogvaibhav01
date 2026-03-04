@@ -7,9 +7,7 @@ Hello! I am Vaibhav Bhardwaj, passionate about technology and committed to conti
 ## Tech Stack
 
 - **Languages:** JavaScript, Python, C++
-- **Frameworks:** React, Django
-- **Databases:** MongoDB, PostgreSQL
-- **Tools & Platforms:** GitHub, Docker, AWS
+
 
 ## Featured Projects
 
